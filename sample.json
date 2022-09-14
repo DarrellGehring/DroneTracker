@@ -1,0 +1,754 @@
+[
+    {
+       "robotname":"Arturia_1",
+       "robotgen":19,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1662864099",
+       "type": "start"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":19,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1662864299",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":19,
+       "lat":"41.060224",
+       "lon":"-111.972054",
+       "timestamp":"1662864399",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":19,
+       "lat":"41.060215",
+       "lon":"-110.523321",
+       "timestamp":"1662864499",
+       "type": "stop"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":19,
+       "lat":"41.061223",
+       "lon":"-110.529321",
+       "timestamp":"1663130921",
+       "type": "start"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":19,
+       "lat":"41.060224",
+       "lon":"-110.522221",
+       "timestamp":"1663131021",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":19,
+       "lat":"41.060234",
+       "lon":"-111.525321",
+       "timestamp":"1663131121",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":19,
+       "lat":"41.060215",
+       "lon":"-110.533321",
+       "timestamp":"1663131221",
+       "type": "stop"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":22,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1662864099",
+       "type": "start"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":22,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1662864299",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":22,
+       "lat":"41.060224",
+       "lon":"-111.974052",
+       "timestamp":"1662864499",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":22,
+       "lat":"41.060224",
+       "lon":"-111.973054",
+       "timestamp":"1662864699",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":22,
+       "lat":"41.061224",
+       "lon":"-111.971054",
+       "timestamp":"1662864899",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_1",
+       "robotgen":22,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1662865099",
+       "type": "stop"
+    },
+    {
+       "robotname":"Arturia_2",
+       "robotgen":19,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1662864099",
+       "type": "start"
+    },
+    {
+       "robotname":"Arturia_2",
+       "robotgen":19,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1662864299",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_2",
+       "robotgen":19,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1662864499",
+       "type": "stop"
+    },
+    {
+       "robotname":"Arturia_3",
+       "robotgen":19,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1662864099",
+       "type": "start"
+    },
+    {
+       "robotname":"Arturia_3",
+       "robotgen":19,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1662864299",
+       "type": "update"
+    },
+    {
+       "robotname":"Arturia_3",
+       "robotgen":19,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1662864499",
+       "type": "stop"
+    },
+    {
+       "robotname":"Gravitas_LL49",
+       "robotgen": 2,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1639482801",
+       "type": "start"
+    },
+    {
+       "robotname":"Gravitas_LL49",
+       "robotgen": 2,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1639483201",
+       "type": "update"
+    },
+    {
+       "robotname":"Gravitas_LL49",
+       "robotgen": 2,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1639483401",
+       "type": "stop"
+    },
+    {
+       "robotname":"Ranger_B",
+       "robotgen": 4,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1651651169",
+       "type": "start"
+    },
+    {
+       "robotname":"Ranger_B",
+       "robotgen": 4,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1651651369",
+       "type": "update"
+    },
+    {
+       "robotname":"Ranger_B",
+       "robotgen": 4,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1651652569",
+       "type": "stop"
+    },
+    {
+       "robotname":"Nomad_F9",
+       "robotgen": 22,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1657353569",
+       "type": "start"
+    },
+    {
+       "robotname":"Nomad_F9",
+       "robotgen": 22,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1657353869",
+       "type": "update"
+    },
+    {
+       "robotname":"Nomad_F9",
+       "robotgen": 22,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1657354169",
+       "type": "stop"
+    },
+    {
+       "robotname":"Test-Drone-G9",
+       "robotgen": 44,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1660838320",
+       "type": "start"
+    },
+    {
+       "robotname":"Test-Drone-G9",
+       "robotgen": 44,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1660838469",
+       "type": "update"
+    },
+    {
+       "robotname":"Test-Drone-G9",
+       "robotgen": 44,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1660838969",
+       "type": "stop"
+    },
+    {
+       "robotname":"Test-Drone-G9",
+       "robotgen": 12,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1660837220",
+       "type": "start"
+    },
+    {
+       "robotname":"Test-Drone-G9",
+       "robotgen": 12,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1660837433",
+       "type": "update"
+    },
+    {
+       "robotname":"Test-Drone-G9",
+       "robotgen": 12,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1660837777",
+       "type": "stop"
+    },
+    {
+       "robotname":"Pelican",
+       "robotgen": 6,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1660837220",
+       "type": "start"
+    },
+    {
+       "robotname":"Pelican",
+       "robotgen": 6,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1660837433",
+       "type": "update"
+    },
+    {
+       "robotname":"Pelican",
+       "robotgen": 6,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1660837777",
+       "type": "stop"
+    },
+    {
+       "robotname":"Pelican",
+       "robotgen": 6,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1663131273",
+       "type": "start"
+    },
+    {
+       "robotname":"Pelican",
+       "robotgen": 6,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1663131473",
+       "type": "update"
+    },
+    {
+       "robotname":"Pelican",
+       "robotgen": 6,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1663131723",
+       "type": "stop"
+    },
+    {
+       "robotname":"Casper",
+       "robotgen": 6,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1663131273",
+       "type": "start"
+    },
+    {
+       "robotname":"Casper",
+       "robotgen": 6,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1663131473",
+       "type": "update"
+    },
+    {
+       "robotname":"Casper",
+       "robotgen": 6,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1663131723",
+       "type": "stop"
+    },
+    {
+       "robotname":"Guardian",
+       "robotgen": 6,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1663131273",
+       "type": "start"
+    },
+    {
+       "robotname":"Guardian",
+       "robotgen": 6,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1663131473",
+       "type": "update"
+    },
+    {
+       "robotname":"Guardian",
+       "robotgen": 6,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1663131723",
+       "type": "stop"
+    },
+    {
+       "robotname":"Chocolate",
+       "robotgen":11,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1662864099",
+       "type": "start"
+    },
+    {
+       "robotname":"Chocolate",
+       "robotgen":11,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1662864299",
+       "type": "update"
+    },
+    {
+       "robotname":"Chocolate",
+       "robotgen":11,
+       "lat":"41.060224",
+       "lon":"-111.972054",
+       "timestamp":"1662864399",
+       "type": "update"
+    },
+    {
+       "robotname":"Chocolate",
+       "robotgen":11,
+       "lat":"41.060215",
+       "lon":"-110.523321",
+       "timestamp":"1662864499",
+       "type": "stop"
+    },
+    {
+       "robotname":"Chocolate",
+       "robotgen":11,
+       "lat":"41.061223",
+       "lon":"-110.529321",
+       "timestamp":"1663130921",
+       "type": "start"
+    },
+    {
+       "robotname":"Chocolate",
+       "robotgen":11,
+       "lat":"41.060224",
+       "lon":"-110.522221",
+       "timestamp":"1663131021",
+       "type": "update"
+    },
+    {
+       "robotname":"Chocolate",
+       "robotgen":11,
+       "lat":"41.060234",
+       "lon":"-111.525321",
+       "timestamp":"1663131121",
+       "type": "update"
+    },
+    {
+       "robotname":"Chocolate",
+       "robotgen":11,
+       "lat":"41.060215",
+       "lon":"-110.533321",
+       "timestamp":"1663131221",
+       "type": "stop"
+    },
+    {
+       "robotname":"Kelp",
+       "robotgen":22,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1662864099",
+       "type": "start"
+    },
+    {
+       "robotname":"Kelp",
+       "robotgen":22,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1662864299",
+       "type": "update"
+    },
+    {
+       "robotname":"Kelp",
+       "robotgen":22,
+       "lat":"41.060224",
+       "lon":"-111.974052",
+       "timestamp":"1662864499",
+       "type": "update"
+    },
+    {
+       "robotname":"Kelp",
+       "robotgen":22,
+       "lat":"41.060224",
+       "lon":"-111.973054",
+       "timestamp":"1662864699",
+       "type": "update"
+    },
+    {
+       "robotname":"Kelp",
+       "robotgen":22,
+       "lat":"41.061224",
+       "lon":"-111.971054",
+       "timestamp":"1662864899",
+       "type": "update"
+    },
+    {
+       "robotname":"Kelp",
+       "robotgen":22,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1662865099",
+       "type": "stop"
+    },
+    {
+       "robotname":"Coffee",
+       "robotgen":19,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1662864099",
+       "type": "start"
+    },
+    {
+       "robotname":"Coffee",
+       "robotgen":19,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1662864299",
+       "type": "update"
+    },
+    {
+       "robotname":"Coffee",
+       "robotgen":19,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1662864499",
+       "type": "stop"
+    },
+    {
+       "robotname":"Coffee_B",
+       "robotgen":2,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1662864099",
+       "type": "start"
+    },
+    {
+       "robotname":"Coffee_B",
+       "robotgen":2,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1662864299",
+       "type": "update"
+    },
+    {
+       "robotname":"Coffee_B",
+       "robotgen":2,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1662864499",
+       "type": "stop"
+    },
+    {
+       "robotname":"Warthog_97G",
+       "robotgen": 2,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1639482801",
+       "type": "start"
+    },
+    {
+       "robotname":"Warthog_97G",
+       "robotgen": 2,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1639483201",
+       "type": "update"
+    },
+    {
+       "robotname":"Warthog_97G",
+       "robotgen": 2,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1639483701",
+       "type": "stop"
+    },
+    {
+       "robotname":"Alpha_G",
+       "robotgen": 4,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1651651169",
+       "type": "start"
+    },
+    {
+       "robotname":"Alpha_G",
+       "robotgen": 4,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1651651369",
+       "type": "update"
+    },
+    {
+       "robotname":"Alpha_G",
+       "robotgen": 4,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1651652569",
+       "type": "stop"
+    },
+    {
+       "robotname":"Alpha_F",
+       "robotgen": 22,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1657353569",
+       "type": "start"
+    },
+    {
+       "robotname":"Alpha_F",
+       "robotgen": 22,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1657353869",
+       "type": "update"
+    },
+    {
+       "robotname":"Alpha_F",
+       "robotgen": 22,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1657354169",
+       "type": "stop"
+    },
+    {
+       "robotname":"Leopard9",
+       "robotgen": 23,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1660838320",
+       "type": "start"
+    },
+    {
+       "robotname":"Leopard9",
+       "robotgen": 23,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1660838469",
+       "type": "update"
+    },
+    {
+       "robotname":"Leopard9",
+       "robotgen": 23,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1660838969",
+       "type": "stop"
+    },
+    {
+       "robotname":"Rhino_BB9",
+       "robotgen": 12,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1660837220",
+       "type": "start"
+    },
+    {
+       "robotname":"Rhino_BB9",
+       "robotgen": 12,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1660837433",
+       "type": "update"
+    },
+    {
+       "robotname":"Rhino_BB9",
+       "robotgen": 12,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1660837777",
+       "type": "stop"
+    },
+    {
+       "robotname":"Ostrich",
+       "robotgen": 7,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1660837220",
+       "type": "start"
+    },
+    {
+       "robotname":"Ostrich",
+       "robotgen": 7,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1660837433",
+       "type": "update"
+    },
+    {
+       "robotname":"Ostrich",
+       "robotgen": 7,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1660837777",
+       "type": "stop"
+    },
+    {
+       "robotname":"Ostrich",
+       "robotgen": 7,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1663131273",
+       "type": "start"
+    },
+    {
+       "robotname":"Ostrich",
+       "robotgen": 7,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1663131473",
+       "type": "update"
+    },
+    {
+       "robotname":"Ostrich",
+       "robotgen": 7,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1663131723",
+       "type": "stop"
+    },
+    {
+       "robotname":"Spectre",
+       "robotgen": 6,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1663131273",
+       "type": "start"
+    },
+    {
+       "robotname":"Spectre",
+       "robotgen": 6,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1663131473",
+       "type": "update"
+    },
+    {
+       "robotname":"Spectre",
+       "robotgen": 6,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1663131723",
+       "type": "stop"
+    },
+    {
+       "robotname":"Villager_9",
+       "robotgen": 6,
+       "lat":"41.060223",
+       "lon":"-111.971054",
+       "timestamp":"1663131273",
+       "type": "start"
+    },
+    {
+       "robotname":"Villager_9",
+       "robotgen": 6,
+       "lat":"41.060224",
+       "lon":"-111.971054",
+       "timestamp":"1663131473",
+       "type": "update"
+    },
+    {
+       "robotname":"Villager_9",
+       "robotgen": 6,
+       "lat":"41.060225",
+       "lon":"-111.971054",
+       "timestamp":"1663131723",
+       "type": "stop"
+    }
+ ]

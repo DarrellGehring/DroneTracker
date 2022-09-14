@@ -1,0 +1,49 @@
+version: '3'
+
+services:
+  db:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: hhasuuUUSDHJJHA_!**123333ajjjs
+    volumes:
+      - ./docker-entrypoint/initdb.d/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  memcached:
+    image: memcached
+    ports:
+      - "11211:11211"
+
+  flask:
+    build: ./api
+    command: ["python", "-m", "flask", "run", "--host=0.0.0.0", "--port=8000"]
+    volumes:
+      - ./api:/app/api
+    ports:
+      - "8000:8000"
+      - "587:587"
+    depends_on:
+      - db
+      - memcached
+    environment:
+      DB_NAME: postgres
+      DB_USER: postgres
+      DB_PASSWORD: hhasuuUUSDHJJHA_!**123333ajjjs
+      DB_HOST: db
+      DB_PORT: 5432
+
+  log_interface:
+    build: ./log_interface
+    command: ["npm", "start"]
+    volumes:
+      - ./log_interface:/app/log_interface
+      - /app/log_interface/node_modules
+    environment:
+      WATCHPACK_POLLING: "true"
+      REACT_APP_API: http://localhost:8000
+    ports:
+      - "3000:3000"
+
+volumes:
+  node-modules:

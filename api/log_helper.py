@@ -130,13 +130,19 @@ def get_logs(args):
                     '''
             template_vars = template_vars + (str(args.get('robot_name')+'%'),)
 
-        if args.get('start_date', None):
+        if args.get('start_date', None) and args.get('start_time', None):
+            query += '''
+                        AND a.timestamp >= %s
+                    '''
+            template_vars = template_vars + (datetime.strptime(args.get('start_date')+"T"+args.get('start_time'), '%Y-%m-%dT%H:%M'),)
+
+        elif args.get('start_date', None):
             query += '''
                         AND a.timestamp >= %s
                     '''
             template_vars = template_vars + (datetime.strptime(args.get('start_date'), '%Y-%m-%d'),)
 
-        if args.get('start_time', None):
+        elif args.get('start_time', None):
             query += '''
                         AND a.timestamp::time >= %s::time
                     '''
@@ -161,16 +167,21 @@ def get_logs(args):
             query += '''
                         WHERE
                     '''
-
-            if args.get('end_date', None):
+            if args.get('end_date', None) and args.get('end_time', None):
+                query += '''
+                            AND a.timestamp <= %s
+                        '''
+                template_vars = template_vars + (datetime.strptime(args.get('end_date')+"T"+args.get('end_time'), '%Y-%m-%dT%H:%M'),)
+                priorHits = True
+            
+            elif args.get('end_date', None):
                 query += '''
                             end_time::date <= %s::date
                         '''
                 template_vars = template_vars + (datetime.strptime(args.get('end_date'), '%Y-%m-%d'),)
                 priorHits = True
 
-
-            if args.get('end_time', None):
+            elif args.get('end_time', None):
                 query += 'AND' if priorHits else ''
                 query += '''
                             end_time::time <= %s::time
